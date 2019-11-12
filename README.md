@@ -1,3 +1,2 @@
-# Background-services
-
-Service is a component which runs in the background.# background-service
+# Background-service
+Service is a component which runs in the background. 
